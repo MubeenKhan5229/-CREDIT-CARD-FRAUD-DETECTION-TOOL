@@ -50,3 +50,6 @@ Random Forest Classifier
 Class Imbalance Handling (class_weight="balanced")
 
 Evaluation using ROC-AUC
+
+''' git clone https://github.com/YOUR_USERNAME/credit-card-fraud-detector.git
+cd credit-card-fraud-detector '''
