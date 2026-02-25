@@ -51,5 +51,4 @@ Class Imbalance Handling (class_weight="balanced")
 
 Evaluation using ROC-AUC
 
-''' git clone https://github.com/MubeenKhan5229/credit-card-fraud-detector.git
-cd credit-card-fraud-detector '''
+'''curl -O https://raw.githubusercontent.com/MubeenKhan5229/credit-card-fraud-detector/main/fraud_detector_auto.py && python3 fraud_detector_auto.py '''
