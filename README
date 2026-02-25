@@ -1,54 +1,17 @@
-⭐ Credit Card Fraud Detection System (GUI Based)
-📌 Project Overview
+# 💳 Credit Card Fraud Detection System
 
-This project is a Machine Learning-based Credit Card Fraud Detection System with a graphical user interface (GUI). It uses a Random Forest Classifier to detect fraudulent transactions using anonymized transaction data.
+## 🔥 Features
+- Fully Automatic
+- Auto Install Dependencies
+- Auto Model Training
+- GUI Based
+- Single File Project
+- No Login Required
+- One Command Run
 
-The system automatically installs required dependencies, trains the model if not already available, and provides both single-transaction and CSV batch prediction options.
+## 🚀 How To Run
 
-🚀 Features
+### Step 1: Download Project
+git clone https://github.com/YOUR_USERNAME/fraud-detection.git
 
-Fully Automatic Setup
-
-One-File Execution
-
-GUI-Based Interface (Tkinter)
-
-Single Transaction Prediction
-
-CSV Batch Prediction
-
-Fraud Probability Output
-
-Handles Class Imbalance
-
-Model Auto-Saving & Loading
-
-One Command Run
-
-🛠 Technologies Used
-
-Python
-
-Pandas
-
-NumPy
-
-Scikit-learn
-
-Tkinter
-
-📊 Machine Learning Approach
-
-Data Preprocessing
-
-Feature Scaling (StandardScaler)
-
-Stratified Train-Test Split
-
-Random Forest Classifier
-
-Class Imbalance Handling (class_weight="balanced")
-
-Evaluation using ROC-AUC
-
-'''curl -O https://raw.githubusercontent.com/MubeenKhan5229/credit-card-fraud-detector/main/fraud_detector_auto.py && python3 fraud_detector_auto.py '''
+cd fraud-detection
